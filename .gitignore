@@ -1,0 +1,6 @@
+/.metadata/
+/.recommenders/
+/.sonarlint/
+thorn-demo/\.classpath
+**/\.settings
+**/\.project

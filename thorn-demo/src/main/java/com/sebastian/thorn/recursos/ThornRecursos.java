@@ -1,4 +1,4 @@
-package com.sebastian.thorn;
+package com.sebastian.thorn.recursos;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
